@@ -71,6 +71,4 @@ rtabmap-databaseViewer ~/.ros/rtabmap.db
 ```
 
 ```
-Note: rtabmap.db file of this project available in result folder of this repository
-```
 ---
